@@ -1,4 +1,4 @@
-# Analytics-Portfolio
+# Power BI Portfolio
 
 # Superstore Sales Dashboard
 
