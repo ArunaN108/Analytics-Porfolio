@@ -1,3 +1,7 @@
+Superstore Sales Dashboard
+Power BI, and Excel
+
+
 # Power BI Portfolio
 
 # Superstore Sales Dashboard
